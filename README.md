@@ -1,4 +1,4 @@
-# Shun Fai Lee Lab4
+# S.Lee Lab4
 # quicksort and mergesort
 
 This python package is designed for sorting numbers using different quicksort and mergesort algorithms.
